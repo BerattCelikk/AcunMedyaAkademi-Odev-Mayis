@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\Core\\Core.csproj": {}
+    "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\Core\\Core.csproj": {
+    "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Muhammed\\.nuget\\packages\\",
-        "outputPath": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\Core\\obj\\",
+        "projectPath": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Muhammed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Projects\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,9 +50,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.15, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.0, )"
             }
           },
           "imports": [

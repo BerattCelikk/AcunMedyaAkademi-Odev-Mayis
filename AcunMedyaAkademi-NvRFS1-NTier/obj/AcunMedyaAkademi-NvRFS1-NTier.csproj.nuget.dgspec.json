@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj": {}
+    "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj": {}
   },
   "projects": {
-    "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj": {
+    "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj",
+        "projectUniqueName": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj",
         "projectName": "AcunMedyaAkademi-NvRFS1-NTier",
-        "projectPath": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj",
-        "packagesPath": "C:\\Users\\Muhammed\\.nuget\\packages\\",
-        "outputPath": "C:\\AcunMedyAkademi\\NVRFS1\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier\\obj\\",
+        "projectPath": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\AcunMedyaAkademi-NvRFS1-NTier\\AcunMedyaAkademi-NvRFS1-NTier.csproj",
+        "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berat\\Desktop\\AcunMedyaAkademi-Odev-Mayis\\AcunMedyaAkademi-NvRFS1-NTier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Muhammed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Projects\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
